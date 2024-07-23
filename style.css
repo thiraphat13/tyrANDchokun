@@ -1,4 +1,6 @@
 body {
     background-color: lightblue;
-    background-image: url("https://cdn.cnn.com/cnnnext/dam/assets/151222135452-donald-trump-flag-december-16-2015-super-tease.jpg;");
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+                url('https://cdn.cnn.com/cnnnext/dam/assets/151222135452-donald-trump-flag-december-16-2015-super-tease.jpg;')
+
   }
